@@ -1,4 +1,4 @@
-![2048 Banner](https://ibb.co.com/qMRRB0Wj)
+![2048 Banner](https://raw.githubusercontent.com/gordon0027/2048_GAME/main/Media/2048.png)
 
 # 2048
 A Web3 3D puzzle game built with Unity and integrated with BNB Smart Chain (BSC) via Idos Games SDK. Players merge cubes, strategize moves, and earn on-chain rewards.
