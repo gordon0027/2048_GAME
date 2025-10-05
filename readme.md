@@ -33,8 +33,7 @@ The goal is to move cubes in 3D space, merging identical ones to form higher val
 ---
 
 ## Features
-- 🔗 **Idos Games SDK** – seamless wallet login, server-side verification, and blockchain sync  
-- 🎮 **Unity Gameplay** – fast-paced space shooter with tournaments and leaderboards  
+- 🔗 **Idos Games SDK** – seamless wallet login, server-side verification, and blockchain sync  \
 - 🪐 **On-Chain Rewards** – play-to-earn mechanics using $2048 token. Players are able to deposit/withdraw native token and NFT's (nfts not deployed yet)
 
 ---
